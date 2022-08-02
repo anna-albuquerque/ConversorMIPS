@@ -1,0 +1,8 @@
+add 15 8 3
+sub 15 8 3
+and 15 8 3
+or 15 8 3
+xor 15 8 3
+nor 15 8 3
+slt 15 8 3
+syscall
